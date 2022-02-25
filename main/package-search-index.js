@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cc.carm.lib.easyplugin"},{"l":"cc.carm.lib.easyplugin.i18n"},{"l":"cc.carm.lib.easyplugin.utils"}]

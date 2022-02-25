@@ -1,0 +1,7 @@
+cc.carm.lib.easyplugin.configuration.cast
+cc.carm.lib.easyplugin.configuration.file
+cc.carm.lib.easyplugin.configuration.impl
+cc.carm.lib.easyplugin.configuration.language
+cc.carm.lib.easyplugin.configuration.language.builder
+cc.carm.lib.easyplugin.configuration.message
+cc.carm.lib.easyplugin.configuration.values
